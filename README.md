@@ -1,3 +1,3 @@
 # content-stack-audit
 
-[ ] Test checkbox
+- [ ] Test checkbox
